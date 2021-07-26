@@ -6,11 +6,11 @@ Users will be able to answer a large array of questions regarding various catego
 
 The code will also allow users to choose the number of teams up to 3 (one person per team).  
 
-Within the software, I will implement six different columns showcasing the question categories as headers along with the six rows below with the number of points ranging from 100-1000. 
+Within the software, we will implement six different columns showcasing the question categories as headers along with the six rows below with the number of points ranging from 100-1000. 
 
-Within the programming, I will install a function that will showcase a red “X” whenever an individual answers incorrectly.
+Within the programming, we will install a function that will showcase a red “X” whenever an individual answers incorrectly.
 
-I will implement a 15 second timer for regular questions as well as 25 second timer for Daily Doubles questions. 
+We will implement a 15 second timer for regular questions as well as 25 second timer for Daily Doubles questions. 
 
 If a player answers correctly, that person will receive the dollar value of the amount showcased on the selected question. 
 
