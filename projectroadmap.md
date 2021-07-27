@@ -3,4 +3,4 @@
 - [x] Clone example repository
 - [x] Create category names
 - [x] Create questions for each category
-- [] Input the answers for each question
+- [ ] Input the answers for each question
