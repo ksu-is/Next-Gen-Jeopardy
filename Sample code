@@ -5,7 +5,7 @@ global score
 print("Welcome to the game of champions or Jeopardy. You click on the number you want to play and the question will be asked to you. Remember that you start with what or who is and then say your answer and end your answer with a question mark. Once you finish a question and answer it, just click on another number and the question will be asked. DO NOT CLICK ON THE SAME NUMBER! You will penalized for your actions. Are your ready? Click a number, and if you click 'MYSTERY',you will be awarded or penalized with a random number of points.")
 score=0
 speed(0)
-category_names=["Author","Surprise","Sports","Coding","Vocab"]
+category_names=["Author","Surprise","Sports","History","Vocab"]
 
 # Question/Answer Content
 categories = [
@@ -31,12 +31,12 @@ categories = [
     ["This person was a true OKC and was traded to the Warriors in 2016.", "Who is Kevin Durant?"],
     ["This person has the most points in the history of NBA.", "who is Kareem Abdul-Jabbar?"],
   ],
-    # Coding
+    # World History
   [
-    ["This command moves the turtle to a specific spot on the grid.", "What is the goto command?"],
-    ["This command makes you create your own function.", "What is the def command?"],
-    ["This mathematical command only takes the integer part of a float when dividing.", "What is the // command"],
-    ["This command allows you to click on the screen.", "What is the onclick command?"],
+    ["This person preceded Ronald Reagan's presidency in the United States of America.", "Who is Jimmy Carter?"],
+    ["This Asian country had seven of the ten deadliest wars in human history some even deadlier than WWI.", "Who is China?"],
+    ["This was the year the Ford Model T entered production.", "What is 1908?"],
+    ["This person led the USSR from 1917 to 1922.", "Who is Vladimir Lenin?"],
   ],
     # Vocab
   [
