@@ -1,6 +1,6 @@
 - [x] Join KSU-IS Group
 - [x] Create Roadmap and ReadME file
 - [x] Clone example repository
-- [ ] Create category names
-- [ ] Create questions for each category
-- [ ] Inout the answers for each question
+- [x] Create category names
+- [x] Create questions for each category
+- [] Input the answers for each question
