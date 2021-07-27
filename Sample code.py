@@ -14,7 +14,7 @@ categories = [
     ["This person wrote 'Harry Potter.'", "Who is J.K. Rowling?"],
     ["This person wrote 'Tom Sawyer.'", "Who is Mark Twain?"],
     ["This person wrote 'Ana Karenina.'","Who is Leo Tolstoy?"],
-    ["This person won the first Peace Prize "]
+    ["This person wrote the Goosebumps series.", "Who is R.L Stine?"]
   ],
   # Mystery
   [
