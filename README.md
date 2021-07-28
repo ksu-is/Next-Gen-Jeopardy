@@ -16,6 +16,10 @@ If a player answers correctly, that person will receive the dollar value of the 
 
 There will be a function that deducts the dollar value of the selected question if a player answers incorrectly or fails to answer within the time given.
 
+Players will also be allowed to receive 1 clue.
+
+If the first player answers inccorectly, the turn goes to second player.
+
 Whichever team has the most money at the end of the game wins.
 
 Enjoy!
